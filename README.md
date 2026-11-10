@@ -46,4 +46,4 @@ This dashboard helps HR departments:
 4. Explore the interactive dashboard.
 ## Author
 P Yashwanth Reddy
-**Tools:** Power BI | Power Query | DAX | Excel
+
