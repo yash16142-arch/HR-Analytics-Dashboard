@@ -3,7 +3,7 @@
 The HR Analytics Dashboard is a Data Analytics project developed using Microsoft Power BI. The main objective is to analyze employee data and identify workforce trends, employee attrition patterns, and department-wise performance.
 The dashboard provides interactive visualizations that help HR teams understand employee demographics, attrition rates, salary distribution, and job satisfaction.
 ## Dashboard Preview
-![HR Analytics Dashboard](Images/hr-analytics-dashboard.png)
+![HR Analytics Dashboard](hr-analytics-dashboard.png)
 ## Key Performance Indicators (KPIs)
 - Total Employees: 1,417
 - Active Employees: 1,186
